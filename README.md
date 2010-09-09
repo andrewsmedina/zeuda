@@ -17,6 +17,8 @@ you will need to install these dependencies
 * [nodejs](nodejs.org)
 * [express](http://expressjs.com/)
     > [sudo] npm install express
+* [ejs](http://github.com/visionmedia/ejs)
+    > [sudo] npm install ejs
 * [dirty](http://github.com/felixge/node-dirty.git)
     > [sudo] npm install dirty
 * [expresso](http://github.com/visionmedia/expresso)
