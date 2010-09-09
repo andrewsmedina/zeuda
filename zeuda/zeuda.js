@@ -1,8 +1,9 @@
-var http = require('http');
+var app = require('express').createServer();
 
-http.createServer(function (request, response) {
-    response.writeHead(200, {'Content-Type': 'text/plain'});
-    response.end('ZeuDa World\n');
-}).listen(8124);
+app.get('/', function(req, res){
+    res.send('ZeuDa World');
+});
 
-console.log('Server running at http://127.0.0.1:8124/');
+app.listen(3000);
+
+console.log('ZeuDa server running at http://127.0.0.1:3000/');

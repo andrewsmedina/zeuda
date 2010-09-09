@@ -10,9 +10,13 @@
 * xp (experience) and level
 * inital attributes (strength, intelect, life, mana)
 
-## requirements
+## dependencies
 
-node.js - nodejs.org
+**you will need to install these dependencies
+
+* [nodejs](nodejs.org)
+* [express](http://expressjs.com/)
+    > [sudo] npm install express
 
 ## community
 
