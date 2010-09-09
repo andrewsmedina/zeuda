@@ -19,6 +19,8 @@
     > [sudo] npm install express
 * [dirty](http://github.com/felixge/node-dirty.git)
     > [sudo] npm install dirty
+* [expresso](http://github.com/visionmedia/expresso)
+    > [sudo] npm install expresso
 
 ## community
 
