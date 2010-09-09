@@ -17,6 +17,8 @@
 * [nodejs](nodejs.org)
 * [express](http://expressjs.com/)
     > [sudo] npm install express
+* [dirty](http://github.com/felixge/node-dirty.git)
+    > [sudo] npm install dirty
 
 ## community
 
