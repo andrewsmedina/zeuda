@@ -12,7 +12,7 @@
 
 ## dependencies
 
-**you will need to install these dependencies
+you will need to install these dependencies
 
 * [nodejs](nodejs.org)
 * [express](http://expressjs.com/)
