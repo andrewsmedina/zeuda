@@ -1,5 +1,8 @@
 # ZeuDa - a mmo using node.js and html5 and canvas
 
+
+ZeuDa is based in [magic2d](http://github.com/andrewsmedina/magic2d)
+
 ## 0.01 TODO
 
 * user creation
