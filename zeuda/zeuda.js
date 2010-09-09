@@ -1,7 +1,10 @@
 var app = require('express').createServer();
 
+app.set('views', __dirname + '/views');
+app.set('view engine', 'ejs');
+
 app.get('/', function(req, res){
-    res.send('ZeuDa World');
+    res.render('zeuda');
 });
 
 app.listen(3000);
