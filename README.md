@@ -31,6 +31,13 @@ you will need to install these dependencies
 
 channel #cobrateam on irc.freenode.net
 
+## Running ZeuDa
+
+The following command will run the server on port 3000.
+    > node app.js
+
+Then point your browser to http://0.0.0.0:3000.
+
 ## contributing to ZeuDa
 
 1. fork and clone the project
